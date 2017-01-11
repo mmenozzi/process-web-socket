@@ -1,0 +1,17 @@
+{
+    "name": "mmenozzi/process_web_socket",
+    "type": "project",
+    "require": {
+        "cboden/ratchet": "^0.3.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manuele Menozzi",
+            "email": "manuele.menozzi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Mmenozzi\\ProcessWebSocket\\": "src/"}
+    }
+}
